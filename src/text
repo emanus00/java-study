@@ -1,0 +1,28 @@
+
+
+/* Array list
+    String[] nomesArr = new String[10];
+    nomesArr[1] = "manel";
+    nomesArr[2] = "joao";
+
+        ArrayList<String> nomes = new ArrayList<>();
+        nomes.add("André");
+        nomes.add("Junior");
+
+Iteradores: contador usando array
+//meu iterador é o "i", que vai contar quando vai terminar a contagem do array
+
+        for(int meuIterador = 0; meuIterador < nomesArr.length; meuIterador++){
+            System.out.println(nomesArr[meuIterador]);
+        };
+
+        int contador = 0;
+        while (contador < 10){
+            System.out.println("Estou no while");
+            contador++;
+        }
+
+        //CASTING (trocar de tipo)
+
+        double resultado = 0.0;
+        int resultadoInt = (int) resultado;*/
